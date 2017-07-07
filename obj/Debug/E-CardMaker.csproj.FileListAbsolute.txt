@@ -1,0 +1,12 @@
+c:\users\sunil\documents\visual studio 2013\Projects\E-CardMaker\E-CardMaker\bin\E-CardMaker.dll.config
+c:\users\sunil\documents\visual studio 2013\Projects\E-CardMaker\E-CardMaker\bin\E-CardMaker.dll
+c:\users\sunil\documents\visual studio 2013\Projects\E-CardMaker\E-CardMaker\bin\E-CardMaker.pdb
+c:\users\sunil\documents\visual studio 2013\Projects\E-CardMaker\E-CardMaker\obj\Debug\E-CardMaker.csprojResolveAssemblyReference.cache
+c:\users\sunil\documents\visual studio 2013\Projects\E-CardMaker\E-CardMaker\obj\Debug\E-CardMaker.dll
+c:\users\sunil\documents\visual studio 2013\Projects\E-CardMaker\E-CardMaker\obj\Debug\E-CardMaker.pdb
+E:\E-CardMaker\E-CardMaker\bin\E-CardMaker.dll.config
+E:\E-CardMaker\E-CardMaker\bin\E-CardMaker.dll
+E:\E-CardMaker\E-CardMaker\bin\E-CardMaker.pdb
+E:\E-CardMaker\E-CardMaker\obj\Debug\E-CardMaker.csprojResolveAssemblyReference.cache
+E:\E-CardMaker\E-CardMaker\obj\Debug\E-CardMaker.dll
+E:\E-CardMaker\E-CardMaker\obj\Debug\E-CardMaker.pdb

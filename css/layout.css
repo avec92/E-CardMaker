@@ -1,0 +1,158 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+	font-size: 12px;
+	background-color: #025881;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+#wrapper {
+	width: 980px;
+	text-align: left;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	color: #ffffff;
+	background-color: #015075;
+}
+#header {
+	margin: 0px;
+	padding: 0px;
+	height: 100px;
+	width: 980px;
+	background-color: #013F5C;
+}
+#nav {
+	background-coloe: #001C29;
+}
+#content {
+	margin: 0 auto;
+    margin-top: 60px;
+	margin-left:280px;
+	width: 960px;
+	height: 960px;
+}
+.clearing {
+	clear: both;
+	margin: 0px;
+	padding: 0px;
+}
+img {
+	border: none;
+	margin: 0px;
+	padding: 0px;
+}
+#footer {
+	margin: 0px;
+	margin-bottom:30px;
+	padding: 0px;
+}
+
+#img li {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 25px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	list-style-type: none;
+	display: inline;
+}
+#text {
+
+	padding: 30px;
+	width: 140px;
+	color: #000;
+	line-height: 1.4;
+	font-size: 12px;
+}
+#text li {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+#editor {
+	position: absolute;
+	right: 5%;
+	top: 20%;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	border: 8px solid #D5D4FF;
+	background-color: #FFFDFC;
+}
+
+#editor2 {
+	position: absolute;
+	right: 5%;
+	top: 73%;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	border: 8px solid #D5D4FF;
+	background-color: #FFFDFC;
+}
+
+#controls {
+	position: absolute;
+	top: 8%;
+	right: 3%;
+}
+#editor label {
+	text-align: left;
+	display: block;
+	margin-left: 10px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#footer 2{
+	background-color:  #025881;
+	margin-bottom:20px;
+	margin: 0px;
+	padding: 0px;
+	}
+#sticker {
+	position: absolute;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	border: 8px solid #D5D4FF;
+	margin: 0px;
+	margin-top: 40px;
+	margin-left:50px;
+	padding: 0px;
+	height: 780px;
+	width: 250px;
+	background-color: #FFFDFC;
+}
+
+#container2 {
+	padding: 0px;
+}
+#container {
+	float: left;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	border: 8px solid #D5D4FF;
+	background-color: #FFFDFC;
+	width:600px;
+	height:700px;
+	margin-left:100px;
+}
+#content a:link, #content a:visited {
+	color: #000;
+	text-decoration: none;
+}
+#content a:hover, #content a:active {
+	color: #999999;
+}
+#content li {
+	list-style-type: none;
+}
